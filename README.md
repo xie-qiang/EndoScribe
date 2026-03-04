@@ -4,7 +4,7 @@
 ## Installation
 
 ```sh
-pip install torch==2.5.1 torchvision==0.20.1 transformers==4.57.3 qwen_vl_utils accelerate
+pip install torch==2.5.1 torchvision==0.20.1 transformers==4.57.3 qwen_vl_utils accelerate translate
 ```
 
 ## Download EndoScribe Trained Models
